@@ -17,3 +17,7 @@ Real-time chat app using react, tailwind in the frontend and node, mongodb, sock
 - cloudinary
 - socket.io
 - nodemon
+
+### Inspiration
+
+Inspired by the [Chat App YouTube Tutorial](https://www.youtube.com/watch?v=ntKkVrQqBYY) by 'As a Programmer'.
