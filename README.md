@@ -12,7 +12,7 @@ Real-time chat app using react, tailwind in the frontend and node, mongodb, sock
 - mongodb
 - dotenv
 - jsonwebtoken
-- bcryptjs
+- bcryptjs: Used to encrypt users data such as passwords.
 - cookie-parser
 - cloudinary
 - socket.io
@@ -21,3 +21,7 @@ Real-time chat app using react, tailwind in the frontend and node, mongodb, sock
 ### Inspiration
 
 Inspired by the [Chat App YouTube Tutorial](https://www.youtube.com/watch?v=ntKkVrQqBYY) by 'As a Programmer'.
+
+#### Notes to Self
+
+- Create diagrams to visualise requests (e.g. sign in auth req). Use [eraser.io](http://eraser.io).
