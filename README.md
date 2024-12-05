@@ -8,13 +8,13 @@ Real-time chat app using react, tailwind in the frontend and node, mongodb, sock
 - tailwind
 - nodejs
 - express
-- mongoose
-- mongodb
-- dotenv
-- jsonwebtoken
-- bcryptjs: Used to encrypt users data such as passwords.
+- mongoose - Used to connect to mongodb.
+- mongodb - database
+- dotenv - Holds information like api passwords or jwt security codes.
+- jsonwebtoken - (jwt) Used for encyrption e.g. passwords
+- bcryptjs: Used to  create jsonwebtokens to encrypt users data such as passwords.
 - cookie-parser
-- cloudinary
+- cloudinary: Used to upload photos e.g. profile pictures or chat images.
 - socket.io
 - nodemon
 
